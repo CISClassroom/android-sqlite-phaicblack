@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/android-sqlite-phaicblack.iml" filepath="$PROJECT_DIR$/.idea/android-sqlite-phaicblack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_sqlite.iml" filepath="$PROJECT_DIR$/android_sqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
